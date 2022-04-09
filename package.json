@@ -29,7 +29,7 @@
     "playwright-core": "^1.5.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-notion": "^0.9.1-beta.1",
+    "react-notion": "^0.10.0",
     "tailwindcss": "^1.5.1"
   }
 }
