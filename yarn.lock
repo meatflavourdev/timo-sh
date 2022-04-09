@@ -5229,10 +5229,10 @@ react-is@16.13.1, react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-notion@^0.9.1-beta.1:
-  version "0.9.1-beta.1"
-  resolved "https://registry.yarnpkg.com/react-notion/-/react-notion-0.9.1-beta.1.tgz#9610cf4448cf2fc45e992824dc0176a874119178"
-  integrity sha512-xEOijpJSWuKuZ0WrgtSlRuhGicXkRTl1pmR3avcZPhzu0zbg27TDKKcGibqF9HWqa4/BFJJpNZJKfTQDF+ujZg==
+react-notion@^0.10.0:
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/react-notion/-/react-notion-0.10.0.tgz#d30876b681b09d91dc671b04c7f604adb4e2499e"
+  integrity sha512-i5lVAxzSs7GnTpIbKtivPQWxGZiKCO5xmCmMJyn6F91y8X1IIJqnypkK+31F2acb1l1Qd8Yv0ktuvXwz9g49NQ==
   dependencies:
     prismjs "^1.21.0"
 
