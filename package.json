@@ -26,7 +26,7 @@
     "next": "^10.0.0",
     "next-seo": "^4.7.3",
     "playwright-aws-lambda": "^0.6.0",
-    "playwright-core": "^1.5.2",
+    "playwright-core": "^1.55.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-notion": "^0.9.1-beta.1",
